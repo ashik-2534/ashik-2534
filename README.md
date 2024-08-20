@@ -6,7 +6,7 @@
 - 😄 Pronouns:him
 - ⚡ Fun fact: I am an ambivert & love to drink tea☕
 
-- [![Twitter](http://i.imgur.com/tXSoThF.png)](https://x.com/ashik_2534)
+-!Twitter [![Twitter](http://i.imgur.com/tXSoThF.png)](https://x.com/ashik_2534)
 
 <!---
 ashik-2534/ashik-2534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

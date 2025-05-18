@@ -2,7 +2,7 @@
   ![@mridwan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mridwan)
   
   #30NitesOfCode
-  [Check out my progress!](https://www.codedex.io/@mridwan/30-nites-of-code)
+  [!](https://www.codedex.io/@mridwan/30-nites-of-code)
   
 # 💫 About Me:
 - 👋 Hi, I’m Ashik_Ridwan<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning web software development<br>- 💞 I’m looking to collaborate on sharing my experiences<br>- 📫 How to reach me: check out my social media links<br>- 😄 Pronouns: him<br>- ⚡ Fun fact: I am an ambivert & love to drink tea ☕
